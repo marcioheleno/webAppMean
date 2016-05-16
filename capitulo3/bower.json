@@ -1,0 +1,18 @@
+{
+  "name": "cap3",
+  "description": "Estudo",
+  "main": "index.js",
+  "authors": [
+    "marcioheleno <marcio@marcioheleno.website>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/marcioheleno/webAppMean",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
