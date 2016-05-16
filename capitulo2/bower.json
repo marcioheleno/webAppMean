@@ -1,0 +1,18 @@
+{
+  "name": "cap02",
+  "homepage": "https://github.com/marcioheleno/webAppMean",
+  "authors": [
+    "marcioheleno <marcio@marcioheleno.website>"
+  ],
+  "description": "Estudo Capitulo 2",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

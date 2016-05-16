@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Angular Funcionamento</title>
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="node_modules/angular/angular.js"></script>
+    <script src="angularScript.js"></script>
+</head>
+<body>
+    <ul ng-controller="ListCtrl">
+        <li ng-repeat="item in list_items">{{item}}</li>
+    </ul>
+    <button id="foo" ng-click="addListItem()">Add Item</button>
+
+    <script src="ScriptJquery.js"></script>
+
+</body>
+</html>
